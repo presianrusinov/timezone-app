@@ -3,6 +3,7 @@ A podman container which outputs your timezone in the browser, using Python code
 
 
 Steps to run:
+
 1.Pull the repo 
 
 2. In a Linux environment enter the directory with the repo and execute the following commands (make sure you have podman installed first): podman build -t . podman run -p 8080:8080 
