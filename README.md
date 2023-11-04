@@ -15,13 +15,21 @@ Steps to run:
 Supported timezones: 
 
 "America/New_York" (Eastern Time)
+
 "Europe/London" (Greenwich Mean Time)
+
 "Asia/Tokyo" (Japan Standard Time)
+
 "Africa/Cairo" (Eastern European Time)
+
 "Asia/Shanghai" (China Standard Time)
+
 "Australia/Sydney" (Australian Eastern Standard Time)
+
 "Pacific/Honolulu" (Hawaii-Aleutian Standard Time)
+
 "Indian/Maldives" (Maldives Time)
+
 "Etc/GMT" (Coordinated Universal Time)
 
 And more :)
