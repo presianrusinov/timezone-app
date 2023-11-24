@@ -4,4 +4,4 @@ RUN pip install pytz
 
 COPY main.py /app/
 
-CMD python3 /app/main.py
+ENTRYPOINT ["python3", "/app/main.py"]
